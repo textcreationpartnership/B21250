@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Directory for the female-sex being a father's advice to his daughter : wherein all young ones (especially those of that sex) are directed how they may obtain the greatest beauty, and adorn themselves with a holy conversation.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21250</idno><idno type="EEBO-CITATION">17009276</idno>
+  <idno type="VID">206275</idno>
+  <idno type="EEBO-PROQUEST">2240873027</idno>
+  
+            <idno type="STC">Wing D1543</idno>
+            <idno type="OCLC">17009276</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206275)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1614:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Directory for the female-sex being a father's advice to his daughter : wherein all young ones (especially those of that sex) are directed how they may obtain the greatest beauty, and adorn themselves with a holy conversation.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"Entred according to order."</note>
+                  <note>Printed in 2 columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women --  Religious life --  Poetry.</term>
+               <term type="topical_term">Christian life --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206275:1"/>
+            <head>A Directory for the Female-Sex: <hi>BEING A Father's Advice to his Daughter:</hi>
+            </head>
+            <argument>
+               <p>Wherein all Young Ones (especially those of that Sex) are directed how they may obtain the greatest Beauty, and Adorn themselves with a Holy Conversation.</p>
+            </argument>
+            <lg>
+               <l>DEar child, These words which briefly I declare,</l>
+               <l>Let them not hang like Jewels in thine Ear;</l>
+               <l>But in the Secret Closet of thy Heart</l>
+               <l>Lock them up safe, that they may ne'er depart.</l>
+               <l>Give first to God the flower of thy Youth.</l>
+               <l>Take Scripture for thy Guide, that word of Truth:</l>
+               <l>Adorn thy Soul with Grace; prize Wisdom more</l>
+               <l>Then all the Pearls upon the <hi>Indian</hi> Shore.</l>
+               <l>Think not to live still free from Grief and Sorrow;</l>
+               <l>That man that <hi>laughs to day,</hi> may <hi>weep to morrow.</hi>
+               </l>
+               <l>Nor dream of Joys unmixed, here below;</l>
+               <l>No Roses here, but what on Thorns do grow.</l>
+               <l>Scorn this deluding World, that most bewitches;</l>
+               <l>And place thy hopes in Everlasting Riches.</l>
+               <l>Make room for Christ; Let not so base a Guest</l>
+               <l>As Earth, have any Lodging in thy Brest.</l>
+               <l>Bad Company (as deadly Poyson) shun;</l>
+               <l>Thousands by that are Ruin'd and Undone.</l>
+               <l>The giddy Multitude still goes astray;</l>
+               <l>Turn from the <hi>Road,</hi> and choose the Narrow way.</l>
+               <l>Keep Death and Judgment always in thine Eye;</l>
+               <l>None's fit to live, but who are fit to die,</l>
+               <l>Make use of present time, because thou must</l>
+               <l>Shortly take up thy Lodging in the Dust:</l>
+               <l>'Tis dreadful to behold the Setting Sun,</l>
+               <l>And Night approaching, ere our work be done.</l>
+               <l>Let not thy winged days be spent in vain;</l>
+               <l>When gone, no Gold will call them back again.</l>
+               <l>Strive to subdue thy sin, when first beginning;</l>
+               <l>Custom <hi>(when once confirm'd)</hi> is strangely winning</l>
+               <l>Be much in Prayer; it is the begging Trade</l>
+               <l>By which true Christians are the Richest made.</l>
+               <l>Of Meditation get the blessed art;</l>
+               <l>And often search thy own deceitful heart.</l>
+               <l>Fret not with Envy at thy Neighbours Wealth,</l>
+               <l>Preferment, Learning, Beauty, Strength, or Health</l>
+               <l>Abhor the Lying Tongue: vile Fraud detest;</l>
+               <l>Plain-hearted men by Providence are blest.</l>
+               <l>Take heed of Idleness, the cursed Nurse</l>
+               <l>And Mother of all Vice: There's nothing worse.</l>
+               <l>And fly from Pride: High Hills are barren found;</l>
+               <l>But lowly Valleys with choice Fruits are crown'd.</l>
+               <l>Short sinful Pleasures and Delights, eschew;</l>
+               <l>Eternal Torment is their Wages due.</l>
+               <l>The Rules of Temperance observe and keep;</l>
+               <l>That thou offend not in Meat Drink, or Sleep.</l>
+               <l>Nor costly Garments wear; Let men admire</l>
+               <l>Thy Person, rather then thy rich Attire.</l>
+               <l>Get a good Treasure laid up in thy heart,</l>
+               <l>Which by discourse thou wisely may'st impart</l>
+               <l>To profit others: Holy Thoughts within</l>
+               <l>Will guide thy <hi>Tongue,</hi> and guard thy <hi>Lips</hi> from sin?</l>
+               <l>Learn to distinguish between faithful Friends,</l>
+               <l>And fawning Flatterers; which for base Ends</l>
+               <l>Will speak thee fair, in words as soft as Oyl,</l>
+               <l>And make a shew of Friendship, to beguile.</l>
+               <l>The Secrets of thy Friend do not disclose;</l>
+               <l>Lest by so doing, thou resemble those</l>
+               <l>Whose Ears are leaking Vessels; which contain</l>
+               <l>Nothing but what pour'd in, runs out again</l>
+               <l>Straight at their mouths, proclaiming them unfit</l>
+               <l>For any Trust, and to be void of Wit.</l>
+               <l>If thou resolve to change a single Life,</l>
+               <l>And hast a Purpose to become a Wife;</l>
+               <l>Then chuse thy Husband not for worldly gain,</l>
+               <l>Nor for his comely Shape, nor Beauty vain:</l>
+               <l>If Money make the Match, or Lust impure,</l>
+               <l>Both Bride and Bridegroom shall to weep be sure:</l>
+               <l>But if the fear of God most excellent,</l>
+               <l>Be chiefly minded, look for true Content.</l>
+               <l>Cast off all needless and distrustful Care:</l>
+               <l>A little is enough; too much, a Snare.</l>
+               <l>Our Journey from our Cradle to our Grave,</l>
+               <l>Can be but short; no large Provision crave.</l>
+               <l>For such Conven'encies as must be had,</l>
+               <l>Trust in that God who hath so richly clad</l>
+               <l>The laughing Meadows with fresh silver show'rs,</l>
+               <l>Sent down to nurse up tender Plants and Flow'rs:</l>
+               <l>He for each chirping Bird provides a Nest,</l>
+               <l>And gives all Creatures that which feeds them best.</l>
+               <l>To Him give thanks for Mercy which before</l>
+               <l>Thou hast receiv'd, and that makes way for more.</l>
+               <l>For Faults, before his Face reprove thy Friend;</l>
+               <l>But all good Deeds behind his Back commend.</l>
+               <l>Labour for Peace; choose to contend with None;</l>
+               <l>Let Reason, with sweet Calmness, keep the Throne;</l>
+               <l>Treading fierce Wrath and lawless Passion down:</l>
+               <l>The Grace of Meekness is a Womans Crown.</l>
+               <l>Be Loving, Patient, Courteous and Kind;</l>
+               <l>So doing thou shalt Praise and Honour find</l>
+               <l>Here upon Earth; and when All-conqu'ring Death</l>
+               <l>Thy Body shall Dissolve, and stop thy Breath;</l>
+               <l>Upon the Golden Wings of Faith and Love,</l>
+               <l>Thy Soul shall fly to Paradice above;</l>
+               <l>(VVhere Sin and Sorrow shall for ever cease)</l>
+               <l>And there be crown'd with Endless Joy and Peace</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Entred according to Order.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Larkin,</hi> at the lower End of <hi>Broadstreet,</hi> next to <hi>London-Wall.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
